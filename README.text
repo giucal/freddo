@@ -1,0 +1,18 @@
+Freddo
+======
+
+A dumb Italian pun.
+
+    ./freddo
+    Accendi i termosifoni.
+
+  > — I'm cold.
+  >
+  > — Turn up the the radiators.
+
+    sudo ./freddo
+    Prendi una tazza di acqua calda e limone.
+
+  > — I'm cold-sweating.
+  >
+  > — Take a cup of hot water with some lemon juice.
